@@ -9,7 +9,7 @@ Follow the **Development and Submission steps** in order to do the below **Tasks
 
 ## Tasks (Minimum Requirements)
 
-1. Create a WordPress Theme as per designs supplied here at: source/rakeTech-fe-assessment/designs/;
+1. Create a WordPress Theme as per designs supplied here at: source/raketech-fe-assessment/designs/;
 2. Theme must be responsive to mobile devices;
 3. Take care of Theme's performance;
 
