@@ -9,7 +9,7 @@ Follow the **Development and Submission steps** in order to do the below **Tasks
 
 ## Tasks (Minimum Requirements)
 
-1. Create a WordPress Theme as per designs supplied here at: https://bitbucket.org/cassarro/raketech-fe-assessment/src/18e982adbaafbc80f19c4fa5dce3503f2fd203a4/designs/?at=master;
+1. Create a WordPress Theme as per designs supplied here at: RakeTech - FE Assessment/designs/;
 2. Theme must be responsive to mobile devices;
 3. Take care of Theme's performance;
 
